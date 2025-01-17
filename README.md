@@ -2,7 +2,7 @@
 
 ### Step 1: Clone the project
 ```bash
-git clone [repository-url]
+git clone https://github.com/cuongseven79/practice-yii.git
 
 Step 2: Open the project and navigate to the backend directory
 cd backend
