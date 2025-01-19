@@ -155,5 +155,4 @@ class SiteController extends Controller
     return "No username submitted.";
     
    }
-
 }
