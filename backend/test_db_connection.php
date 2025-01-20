@@ -1,5 +1,4 @@
 <?php
-$db = require __DIR__ . '/db.php';
 
 $host = getenv('DB_HOST');
 $dbname = getenv('DB_NAME');
